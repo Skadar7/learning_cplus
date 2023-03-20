@@ -1,0 +1,9 @@
+﻿  number_system.cpp
+C:\Users\Denis\Desktop\Инст\Процедурка\prog\AllHW\HW4T9\number_system.cpp(401,47): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Denis\Desktop\Инст\Процедурка\prog\AllHW\HW4T9\number_system.cpp(405,47): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Denis\Desktop\Инст\Процедурка\prog\AllHW\HW4T9\number_system.cpp(433,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Denis\Desktop\Инст\Процедурка\prog\AllHW\HW4T9\number_system.cpp(445,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Denis\Desktop\Инст\Процедурка\prog\AllHW\HW4T9\number_system.cpp(456,26): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Denis\Desktop\Инст\Процедурка\prog\AllHW\HW4T9\number_system.cpp(462,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Denis\Desktop\Инст\Процедурка\prog\AllHW\HW4T9\number_system.cpp(486,13): error C2440: return: невозможно преобразовать "double" в "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Users\Denis\Desktop\Инст\Процедурка\prog\AllHW\HW4T9\number_system.cpp(486,13): message : Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно

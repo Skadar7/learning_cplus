@@ -1,0 +1,4 @@
+﻿  arears.cpp
+C:\Users\Denis\Desktop\Инст\Процедурка\prog\AllHW\HW4T3\arears.cpp(15,14): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Denis\Desktop\Инст\Процедурка\prog\AllHW\HW4T3\arears.cpp(19,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  HW4T3.vcxproj -> C:\Users\Denis\Desktop\Инст\Процедурка\prog\AllHW\Debug\HW4T3.exe
